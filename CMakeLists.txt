@@ -25,6 +25,7 @@ endif()
 # 可执行文件定义
 add_executable(${PROJECT_NAME}
     01.cpp
+        02.cpp
 )
 
 # 设置目标属性
