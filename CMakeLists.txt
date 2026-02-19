@@ -23,3 +23,4 @@ set_target_properties(01 02 03 PROPERTIES
         CXX_STANDARD 17
         CXX_STANDARD_REQUIRED ON
 )
+add_executable(04 04.cpp)
