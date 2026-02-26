@@ -25,3 +25,5 @@ set_target_properties(01 02 03 PROPERTIES
 )
 add_executable(04 04.cpp)
 add_executable(05 05.cpp)
+add_executable(06 06.cpp)
+add_executable(07 07.cpp)
